@@ -7,7 +7,8 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "build": "npm install"
   },
   "dependencies": {
     "@types/express": "^5.0.0",
